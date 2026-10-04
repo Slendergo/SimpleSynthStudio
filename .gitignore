@@ -1,0 +1,11 @@
+build/
+out/
+cmake-build-*/
+.vs/
+.vscode/
+.idea/
+CMakeUserPresets.json
+*.user
+imgui.ini
+*.wav
+!examples/*.wav
